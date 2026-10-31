@@ -5,6 +5,14 @@
     <link>https://github.com/xristostsilis/metron-updates</link>
     <language>el</language>
     <item>
+      <title>Metron 0.3.0</title>
+      <pubDate>Sat, 31 Oct 2026 18:27:06 +0000</pubDate>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li><b>Αναλυτής RDS</b> (σε στιλ RDS Spy): χώρα, κάλυψη, PIN, σφάλμα ώρας CT, RT A/B, RT+ με running/toggle, eRT, ιστορικό PS/PTY/RT, AF μέθοδος A/B, EON, TMC, ODA, group analyzer με γράφημα, πλήρη αποκωδικοποίηση και live log.</li><li><b>RDS2</b>: ροές 66.5 / 71.25 / 76 kHz και λήψη αρχείων RFT — <b>λογότυπο σταθμού</b> στην κεφαλίδα.</li><li><b>Σύνδεση με RDS Spy</b>: Configure → Source → TCP/IP, 127.0.0.1 θύρα 7376, και καταγραφή .spy.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/xristostsilis/metron-updates/main/windows/Metron-0.3.0.exe" sparkle:os="windows" sparkle:edSignature="I9duI8a668KrPYrakkfmqjzV93YRn2mTv83T8KircOvwpk4eEpC/cGmlkSQM8ZUVTqloAZThXlJNhz3zMj3GBQ==" length="8868864" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Metron 0.2.0</title>
       <pubDate>Sat, 31 Oct 2026 17:39:40 +0000</pubDate>
       <sparkle:version>0.2.0</sparkle:version>
