@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Metron</title>
+    <link>https://github.com/xristostsilis/metron-updates</link>
+    <language>el</language>
+    <item>
+      <title>Metron 0.2.0</title>
+      <pubDate>Sat, 31 Oct 2026 17:39:40 +0000</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li><b>Αυτόματες ενημερώσεις</b>: έλεγχος κάθε 6 ώρες και χειροκίνητα (Ρυθμίσεις → Σύστημα), με ερώτηση πριν την εγκατάσταση και ψηφιακή υπογραφή.</li><li><b>Κανονιστικό προφίλ</b>: Ελλάδα (±75 kHz, ισχύς MPX ενημερωτικά), BS.412 0 dBr, +3 dBr ή προσαρμοσμένο.</li><li><b>Μετρήσεις τύπου pira.cz</b>: απόκλιση ανά 50 ms (MAX/AVE/MIN), ιστόγραμμα ERC REC 54-01 με αθροιστική καμπύλη, δείκτης ποιότητας λήψης 0–5, φασματική μάσκα RF με PASS/FAIL, βοηθός Bessel null, AM %, ισορροπία L/R, έλεγχοι RDS, σειρά groups.</li><li><b>Αναφορά μετρήσεων HTML</b> με γραφήματα.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/xristostsilis/metron-updates/main/windows/Metron-0.2.0.exe" sparkle:os="windows" sparkle:edSignature="dhQKUU9gpAsY75diaCL7AKDnEvM50G1jlxPoPRo0BPrLm5QQELlj9C+rGAm5E7MLVH8q1IS+skpcA2c/RKe1AA==" length="8569856" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
