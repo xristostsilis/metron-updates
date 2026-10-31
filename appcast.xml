@@ -5,6 +5,14 @@
     <link>https://github.com/xristostsilis/metron-updates</link>
     <language>el</language>
     <item>
+      <title>Metron 0.3.1</title>
+      <pubDate>Sat, 31 Oct 2026 19:19:55 +0000</pubDate>
+      <sparkle:version>0.3.1</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li><b>Νέο εικονίδιο εφαρμογής</b> στη γραμμή εργασιών, στον τίτλο του παραθύρου, στο Alt+Tab και στο αρχείο Metron.exe.</li><li>Στοιχεία έκδοσης στις Ιδιότητες του αρχείου (Λεπτομέρειες).</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/xristostsilis/metron-updates/main/windows/Metron-0.3.1.exe" sparkle:os="windows" sparkle:edSignature="JUilvXzIx1HWYk9Xpfdbwpk8doaQVeicnGXLuWHe3f9NbrkEmr8xfFNmhKXlL4wucYXwsnEFraJ1WztS7dYCBA==" length="9001984" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Metron 0.3.0</title>
       <pubDate>Sat, 31 Oct 2026 18:27:06 +0000</pubDate>
       <sparkle:version>0.3.0</sparkle:version>
